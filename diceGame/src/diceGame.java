@@ -71,3 +71,5 @@ public class diceGame
           
         } // end main    
 }  // end class dice
+
+// Please demonstrate the use of ToString()
